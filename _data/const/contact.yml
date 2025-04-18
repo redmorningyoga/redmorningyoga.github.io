@@ -30,7 +30,7 @@ mastodon:
   url: "https://mastodon.social"
 instagram:
   icon: "fa fa-instagram"
-  url: "https://www.instagram.com"
+  url: "https://www.instagram.com/redmorningyoga/"
 youtube:
   icon: "fa fa-youtube-play"
   url: "https://www.youtube.com/channel"
