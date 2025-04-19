@@ -39,7 +39,9 @@ img: ":home-heading.jpg"
 
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
-{%- include util/auto-content-generator.liquid -%}
-{{ website_info_text_first }}
+🌅 Red Morning Yoga
+Gentle movement. Calm mind. Strong body.
 
-{{ website_info_text_second }}
+Welcome! I’m Reda, a certified yoga teacher passionate about helping people feel better in their bodies and minds — no matter your age or experience level.
+
+After over 7 years of personal practice and seeing how yoga improved my life — making me stronger, more mindful, and energized — I now share it with others through welcoming, beginner-friendly classes in Sydney.
