@@ -39,7 +39,6 @@ img: ":home-heading.jpg"
 
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
-🌅 Red Morning Yoga
 Gentle movement. Calm mind. Strong body.
 
 Welcome! I’m Reda, a certified yoga teacher passionate about helping people feel better in their bodies and minds — no matter your age or experience level.
