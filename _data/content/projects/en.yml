@@ -195,7 +195,7 @@ page_data:
     - type: id_quote
       project_name: "Free dog yoga at Moore Park"
       project_excerpt: "Soak that vitamin D and oxytocin"
-      img: ":project2_thumb.jpg"
+      img: ":project2_thumb.png"
       img_title: "img title3"
       date: "Fridays 11 am"
       post: |
