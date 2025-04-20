@@ -9,7 +9,7 @@ page_data:
     text_color: "white"
     # if you don't want to use background image, comment it. back_color will be activated.
     img: ":projects-heading.jpg"
-    back_color: "lightblue"
+    back_color: "light-blue"
 
 #buttons
   category:
@@ -22,7 +22,7 @@ page_data:
       color: "#62b462"
 
   list:
-    # example
+# example
     - type: id_example
       project_name: "Paddington community yoga"
       project_excerpt: "Start your week right"
