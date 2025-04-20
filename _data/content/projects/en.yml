@@ -9,17 +9,17 @@ page_data:
     text_color: "white"
     # if you don't want to use background image, comment it. back_color will be activated.
     img: ":projects-heading.jpg"
-    back_color: "light-blue"
+    back_color: "lightblue"
 
 #buttons
   category:
     - title: "Classes"
-      type: id_classes
+      type: id_example
       color: "#62b462"
 
   list:
     # EJ Ward Paddington Community Centre
-    - type: id_classes
+    - type: id_example
       project_name: "Paddington community yoga"
       project_excerpt: "Start your week right"
       img: ":project1_thumb.jpg"
