@@ -359,7 +359,7 @@ cookie_consent:
       value: "denied"
   groups_switches_and_values:
     # set values true or false or hide
-    analytics: true
+    analytics: false
     preferences: false
     advertising: false
   bar_buttons:
