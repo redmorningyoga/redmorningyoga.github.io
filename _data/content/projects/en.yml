@@ -13,8 +13,12 @@ page_data:
 
 #buttons
   category:
-    - title: "Classes"
+    - title: "Paddington"
       type: id_example
+      color: "#62b462"
+  category:
+    - title: "Moore Park"
+      type: id_quote
       color: "#62b462"
 
   list:
@@ -189,11 +193,11 @@ page_data:
 
     # quote
     - type: id_quote
-      project_name: "Example Project"
-      project_excerpt: "William Shakespeare"
-      #img: ":project1_thumb.jpg"
+      project_name: "Free dog yoga at Moore Park"
+      project_excerpt: "Soak that vitamin D and oxytocin"
+      img: ":project2_thumb.jpg"
       #img_title: "img title3"
-      date: "2021-05-27"
+      date: "Fridays 11 am"
       post: |
         Let me not to the marriage of true minds
         Admit impediments. Love is not love
