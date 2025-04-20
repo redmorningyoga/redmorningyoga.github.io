@@ -22,7 +22,7 @@ page_data:
     - type: id_example
       project_name: "Paddington community yoga"
       project_excerpt: "Start your week right"
-      img: ":project1_thumb.jpg"
+      img: ":project1_thumb.png"
       img_title: "img title1"
       date: "Mondays 7:30-8:30"
       post: |
