@@ -5,7 +5,9 @@
 brand: "Red Morning Yoga"
 
 # text below the brand name
-brand_sub_text: "$site_sample"
+# brand_sub_text: "$site_sample"
+# I've commented out the above, so it doesn't show on the page.
+# If you decide to have a sub-brand, i.e. want some text below your brand, then uncomment the above and replace the text with data.lang[language].constants.sample
 
 # used for seo meta post author (if it's not defined in post)
 name: "Reda"
