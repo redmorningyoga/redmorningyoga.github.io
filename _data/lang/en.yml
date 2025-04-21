@@ -162,7 +162,7 @@ links:
 
 # for projects layout
 projects:
-  title: Projects
+  title: Classes
   button_name: Projects
   read_more_text: Read more
   read_less_text: Read less
