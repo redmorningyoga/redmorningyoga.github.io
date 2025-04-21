@@ -18,9 +18,11 @@ page_data:
     - title: "Paddington"
       type: id_paddington_classes
       color: "#62b462"
+      address: "EJ Ward Paddington Community Centre"
     - title: "Moore Park"
       type: id_moore_park_classes
       color: "#62b462"
+      address: "Bat and Ball Oval"
 
   list:
     - type: id_paddington_classes
@@ -28,11 +30,11 @@ page_data:
       project_excerpt: "Start your week right"
       img: ":project1_thumb.png"
       img_title: "img title1"
-      date: "Mondays 7:30-8:30"
+      date: "Mondays 7:30-8:30 am"
       post: |
-        These classes are design to start Your week right and feel good in your own skin
+        These classes are designed to start Your week right and feel good in your own skin.
 
-        🌿 What to Expect
+        🌿 What to Expect:
         
         * Small, relaxed group setting (max 10 people)
 
@@ -47,7 +49,7 @@ page_data:
       project_excerpt: "Soak that vitamin D and oxytocin"
       img: ":project2_thumb.png"
       img_title: "img title3"
-      date: "Fridays 11 am"
+      date: "Fridays 11:00-12:00 am"
       post: |
         These classes are #TODO
 
