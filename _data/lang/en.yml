@@ -136,8 +136,8 @@ post-list:
 
 # for home layout
 home:
-  title: Welcome
-  button_name: Home
+  title: About
+  button_name: About
   # new_posts_title: New Articles
   # new_posts_show_more_button: View More ...
 
