@@ -56,7 +56,7 @@ layout: default
           <h1>{{ list.project_name }}</h1><h2>{{ list.project_excerpt }}</h2>
           <div class="meta-container">
             <p class="date"><i class="fa fa-calendar fa-fw" aria-hidden="true"></i>&nbsp;{{ list.date }}</p>
-            <p class="category">#{{ category.title }}</p>
+            <p class="category">@{{ category.title }}</p>
           </div>
           <hr>
           <a href="javascript:void(0);" class="read-more-less" role="button" rel="nofollow">
