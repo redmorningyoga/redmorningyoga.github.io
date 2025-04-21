@@ -35,13 +35,13 @@ page_data:
         These classes are designed to start Your week right and feel good in your own skin.
         
 
-        📍 Location: EJ Ward Paddington Community Centre
+        📍 **Location**: EJ Ward Paddington Community Centre
         
-        🗓️ When: Every Monday from 7:30 am to 8:30 am
+        🗓️ **When**: Every Monday from 7:30 am to 8:30 am
         
-        💸 Cost: $18 per class, please book <link>
+        💸 **Cost**: $18 per class, please book <link>
         
-        🧘‍♀️ Bring your own mat or rent for $2 per class
+        🧘‍♀️ **Bring your own mat** or rent for $2 per class
 
 
         🌿 What to expect:
@@ -64,11 +64,11 @@ page_data:
         These classes are about sharing space, movement, and good energy with your body and pup!
         
 
-        📍 Location: Bat and Ball Oval at Moore Park 
+        📍 **Location**: Bat and Ball Oval at Moore Park 
         
-        🗓️ When: Every Friday from 11 am to 12 pm
+        🗓️ **When**: Every Friday from 11 am to 12 pm
         
-        💸 Cost: Free! Just bring a mat and a smile 
+        💸 **Cost**: Free! Just bring a mat and a smile 
 
         
         🐾 What to expect:
