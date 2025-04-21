@@ -34,7 +34,7 @@ page_data:
       post: |
         These classes are designed to start Your week right and feel good in your own skin.
 
-        🌿 What to Expect:
+        🌿 What to expect:
         
         * Small, relaxed group setting (max 10 people)
 
@@ -51,7 +51,21 @@ page_data:
       img_title: "img title3"
       date: "Fridays 11:00-12:00 am"
       post: |
-        These classes are #TODO
+        These classes are about sharing space, movement, and good energy with your body and pup!
+        
+        🐾 What to expect:
+        
+        * A gentle, beginner-friendly yoga flow
+
+        * Calm, outdoor setting with dogs running around
+
+        * Friendly, pet-loving community vibes
+
+        Whether you're a seasoned yogi or just yoga-curious, this is a light-hearted, community-focused way to unwind with your dog and meet other locals who love         movement and furry companions. All dogs welcome — big, small, sleepy, or silly. 
+
+        *No dog? No problem!* You're absolutely welcome to join with or without a furry friend — it's all about connection and community.
+
+
 
 ##### Finish Insert of the _data/content/projects/en.yml content #####
 
