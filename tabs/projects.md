@@ -3,6 +3,58 @@ layout: projects
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
 lng_pair: id_projects
 
+##### Begin Insert of the _data/content/projects/en.yml content #####
+page_data:
+  main:
+    header: "Classes"
+    info: "Yoga classes in Sydney"
+    text_color: "white"
+    # if you don't want to use background image, comment it. back_color will be activated.
+    img: ":projects-heading.jpg"
+    back_color: "light-blue"
+
+#buttons
+  category:
+    - title: "Paddington"
+      type: id_paddington_classes
+      color: "#62b462"
+  category:
+    - title: "Moore Park"
+      type: id_moore_park_classes
+      color: "#62b462"
+
+  list:
+    - type: id_paddington_classes
+      project_name: "Paddington community yoga"
+      project_excerpt: "Start your week right"
+      img: ":project1_thumb.png"
+      img_title: "img title1"
+      date: "Mondays 7:30-8:30"
+      post: |
+        These classes are design to start Your week right and feel good in your own skin
+
+        🌿 What to Expect
+        
+        * Small, relaxed group setting (max 10 people)
+
+        * Easy-to-follow guidance, perfect for beginners
+
+        * Focus on flexibility, balance, and breath
+
+        * Leave feeling calm, clear, and refreshed
+
+    # quote
+    - type: id_moore_park_classes
+      project_name: "Free dog yoga at Moore Park"
+      project_excerpt: "Soak that vitamin D and oxytocin"
+      img: ":project2_thumb.png"
+      img_title: "img title3"
+      date: "Fridays 11 am"
+      post: |
+        These classes are #TODO
+
+##### Finish Insert of the _data/content/projects/en.yml content #####
+
 # publish date (used for seo)
 # if not specified, site.time will be used.
 #date: 2022-03-03 12:32:00 +0000
