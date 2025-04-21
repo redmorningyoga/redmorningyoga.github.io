@@ -55,7 +55,7 @@ page_data:
         * Leave feeling calm, clear, and refreshed
 
     - type: id_moore_park_classes
-      project_name: "Free dog yoga at Moore Park"
+      project_name: "Free dog yoga"
       project_excerpt: "Soak that vitamin D and oxytocin"
       img: ":project2_thumb.png"
       img_title: "img title3"
