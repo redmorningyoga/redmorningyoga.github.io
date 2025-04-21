@@ -28,7 +28,7 @@ page_data:
       project_excerpt: "Start your week right"
       img: ":project1_thumb.png"
       img_title: "img title1"
-      class_time: "Mondays 7:30-8:30"
+      date: "Mondays 7:30-8:30"
       post: |
         These classes are design to start Your week right and feel good in your own skin
 
@@ -47,7 +47,7 @@ page_data:
       project_excerpt: "Soak that vitamin D and oxytocin"
       img: ":project2_thumb.png"
       img_title: "img title3"
-      class_time: "Fridays 11 am"
+      date: "Fridays 11 am"
       post: |
         These classes are #TODO
 
