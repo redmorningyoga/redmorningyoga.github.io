@@ -163,7 +163,7 @@ links:
 # for projects layout
 projects:
   title: Classes
-  button_name: Projects
+  button_name: Classes
   read_more_text: Read more
   read_less_text: Read less
 
