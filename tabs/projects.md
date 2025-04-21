@@ -18,7 +18,6 @@ page_data:
     - title: "Paddington"
       type: id_paddington_classes
       color: "#62b462"
-  category:
     - title: "Moore Park"
       type: id_moore_park_classes
       color: "#62b462"
@@ -43,7 +42,6 @@ page_data:
 
         * Leave feeling calm, clear, and refreshed
 
-    # quote
     - type: id_moore_park_classes
       project_name: "Free dog yoga at Moore Park"
       project_excerpt: "Soak that vitamin D and oxytocin"
