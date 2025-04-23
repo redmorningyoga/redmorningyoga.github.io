@@ -26,23 +26,22 @@ page_data:
 
   list:
     - type: id_paddington_classes
-      project_name: "Paddington community yoga"
-      project_excerpt: "booking link below"
+      project_name: "Paddington community Yoga"
+      project_excerpt: "read more for booking"
       img: ":project1_thumb.png"
       img_title: "img title1"
       date: "Mondays 7:30-8:30 am"
       post: |
         These classes are designed to start Your week right and feel good in your own skin.
         
+        
+        🧘‍♀️ Only 10 spots available – **please book [here](https://calendly.com/redmorningyoga/community-yoga-at-paddington-1).**
 
         📍 **Location**: EJ Ward Paddington Community Centre
         
         🗓️ **When**: Every Monday from 7:30 am to 8:30 am
         
-        💸 **Cost**: $18 per class, please book [here](https://calendly.com/redmorningyoga/community-yoga-at-paddington-1).
-        
-        🧘‍♀️ **Bring your own mat** or rent for $2 per class
-
+        💸 Cost: $18 per class, bring your own mat or rent for $2 per class. **First class is free!**
 
         🌿 What to expect:
         
@@ -55,7 +54,7 @@ page_data:
         * Leave feeling calm, clear, and refreshed
 
     - type: id_moore_park_classes
-      project_name: "Free dog yoga"
+      project_name: "Free dog Yoga"
       project_excerpt: "no booking required"
       img: ":project2_thumb.png"
       img_title: "img title3"
