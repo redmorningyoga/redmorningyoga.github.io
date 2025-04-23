@@ -27,7 +27,7 @@ page_data:
   list:
     - type: id_paddington_classes
       project_name: "Paddington community yoga"
-      project_excerpt: "Start your week right"
+      project_excerpt: "booking link below"
       img: ":project1_thumb.png"
       img_title: "img title1"
       date: "Mondays 7:30-8:30 am"
@@ -39,7 +39,7 @@ page_data:
         
         🗓️ **When**: Every Monday from 7:30 am to 8:30 am
         
-        💸 **Cost**: $18 per class, please book <link>
+        💸 **Cost**: $18 per class, please book [<link>](https://calendly.com/redmorningyoga/community-yoga-at-paddington-1)
         
         🧘‍♀️ **Bring your own mat** or rent for $2 per class
 
@@ -56,7 +56,7 @@ page_data:
 
     - type: id_moore_park_classes
       project_name: "Free dog yoga"
-      project_excerpt: "Soak that vitamin D and oxytocin"
+      project_excerpt: "no booking required"
       img: ":project2_thumb.png"
       img_title: "img title3"
       date: "Fridays 11:00-12:00 am"
@@ -82,6 +82,9 @@ page_data:
         Whether you're a seasoned yogi or just yoga-curious, this is a light-hearted, community-focused way to unwind with your dog and meet other locals who love         movement and furry companions. All dogs welcome — big, small, sleepy, or silly. 
 
         *No dog? No problem!* You're absolutely welcome to join with or without a furry friend — it's all about connection and community.
+
+        
+        🙏Donations appreciated. PayID: redmorningyoga@gmail.com
 
 
 
