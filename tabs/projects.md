@@ -39,7 +39,7 @@ page_data:
         
         🗓️ **When**: Every Monday from 7:30 am to 8:30 am
         
-        💸 **Cost**: $18 per class, please book [<link>](https://calendly.com/redmorningyoga/community-yoga-at-paddington-1)
+        💸 **Cost**: $18 per class, please book [here](https://calendly.com/redmorningyoga/community-yoga-at-paddington-1).
         
         🧘‍♀️ **Bring your own mat** or rent for $2 per class
 
