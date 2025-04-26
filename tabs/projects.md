@@ -58,7 +58,7 @@ page_data:
       project_excerpt: "no booking required"
       img: ":project2_thumb.png"
       img_title: "img title3"
-      date: "Fridays 11:00-12:00 am"
+      date: "Fridays 4:00-5:00 pm"
       post: |
         These classes are about sharing space, movement, and good energy with your body and pup!
         
@@ -76,7 +76,6 @@ page_data:
 
         * Calm, outdoor setting with dogs running around
 
-        * Friendly, pet-loving community vibes
 
         Whether you're a seasoned yogi or just yoga-curious, this is a light-hearted, community-focused way to unwind with your dog and meet other locals who love         movement and furry companions. All dogs welcome — big, small, sleepy, or silly. 
 
