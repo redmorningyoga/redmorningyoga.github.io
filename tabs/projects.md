@@ -54,7 +54,7 @@ page_data:
         * Leave feeling calm, clear, and refreshed
 
     - type: id_moore_park_classes
-      project_name: "Free dog Yoga"
+      project_name: "Free Yoga in Sydney"
       project_excerpt: "no booking required"
       img: ":project2_thumb.png"
       img_title: "img title3"
