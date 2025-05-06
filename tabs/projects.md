@@ -39,7 +39,7 @@ page_data:
 
         📍 **Location**: EJ Ward Paddington Community Centre
         
-        🗓️ **When**: Every Monday from 7:30 am to 8:30 am
+        🗓️ **When**: Every Monday from 8:30 am to 9:30 am
         
         💸 Cost: $18 per class, bring your own mat or rent for $2 per class. **First class is free!**
 
