@@ -30,7 +30,7 @@ page_data:
       project_excerpt: "read more for booking"
       img: ":project1_thumb.png"
       img_title: "img title1"
-      date: "Mondays 7:30-8:30 am"
+      date: "Mondays 8:30-9:30 am"
       post: |
         These classes are designed to start Your week right and feel good in your own skin.
         
@@ -65,7 +65,7 @@ page_data:
 
         📍 **Location**: Bat and Ball Oval at Moore Park 
         
-        🗓️ **When**: Every Friday from 11 am to 12 pm
+        🗓️ **When**: Every Friday from 4 pm to 5 pm
         
         💸 **Cost**: Free! Just bring a mat and a smile 
 
