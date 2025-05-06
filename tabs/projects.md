@@ -26,7 +26,7 @@ page_data:
 
   list:
     - type: id_paddington_classes
-      project_name: "Paddington community Yoga"
+      project_name: "Community Yoga in Paddington"
       project_excerpt: "read more for booking"
       img: ":project1_thumb.png"
       img_title: "img title1"
