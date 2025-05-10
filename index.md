@@ -54,7 +54,10 @@ Now, I offer warm, beginner-friendly yoga classes in Sydney, creating a welcomin
 
 
 Have questions or want to say hi?
+
 📧 Email: redmorningyoga@gmail.com
+
 🌐 Instagram: @redmorningyoga
+
 🌐 Facebook: Red Morning Yoga
 
