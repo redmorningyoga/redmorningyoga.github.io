@@ -48,16 +48,28 @@ After more than 7 years of personal practice, yoga has improved my life - helpin
 Now, I offer warm, beginner-friendly yoga classes in Sydney, creating a welcoming space where everyone feels at ease — whether you’re brand new or returning to your mat.
 
 
+
 🧘‍♀️ Join a class
+
 Community Yoga in Paddington
+
 📍 EJ Ward Paddington Community Centre
+
 🕣 Mondays & Fridays | 8:30 AM – 9:30 AM
+
 💸 $18 per class (first class FREE!)
+
 🧘‍♀️ Max 10 people – bookings essential
+
 [Book here](https://calendly.com/redmorningyoga/community-yoga-at-paddington-1)
 
+
+
 Have questions or want to say hi?
+
 📧 Email: redmorningyoga@gmail.com
+
 🌐 Instagram: @redmorningyoga
+
 🌐 Facebook: Red Morning Yoga
 
