@@ -39,8 +39,25 @@ img: ":home-heading.jpg"
 
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
-Gentle movement. Calm mind. Strong body.
+Welcome!🌞
 
-Welcome! I’m Reda, a certified yoga teacher passionate about helping people feel better in their bodies and minds — no matter your age or experience level.
+I’m Reda, a certified yoga teacher passionate about helping people feel better in their bodies and minds - no matter your age or experience level.
 
-After over 7 years of personal practice and seeing how yoga improved my life — making me stronger, more mindful, and energized — I now share it with others through welcoming, beginner-friendly classes in Sydney.
+After more than 7 years of personal practice, yoga has improved my life - helping me build strength, reduce stress, and move with more awareness. As I shared my love for yoga with friends, they encouraged me to take the next step and become a teacher. Their support inspired me to travel to Rishikesh, India, where I completed my Yoga Teacher Certification in February 2025.
+
+Now, I offer warm, beginner-friendly yoga classes in Sydney, creating a welcoming space where everyone feels at ease — whether you’re brand new or returning to your mat.
+
+
+🧘‍♀️ Join a class
+Community Yoga in Paddington
+📍 EJ Ward Paddington Community Centre
+🕣 Mondays & Fridays | 8:30 AM – 9:30 AM
+💸 $18 per class (first class FREE!)
+🧘‍♀️ Max 10 people – bookings essential
+[Book here](https://calendly.com/redmorningyoga/community-yoga-at-paddington-1)
+
+Have questions or want to say hi?
+📧 Email: redmorningyoga@gmail.com
+🌐 Instagram: @redmorningyoga
+🌐 Facebook: Red Morning Yoga
+
