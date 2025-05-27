@@ -27,7 +27,7 @@ page_data:
   list:
     - type: id_paddington_classes
       project_name: "Community Yoga in Paddington"
-      project_excerpt: "book [here](https://calendly.com/redmorningyoga/community-yoga-at-paddington-1)"
+      project_excerpt: "read more for booking"
       img: ":project1_thumb.png"
       img_title: "img title1"
       date: "Mondays, Fridays 8:30-9:30 am"
