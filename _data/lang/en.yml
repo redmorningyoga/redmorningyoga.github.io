@@ -160,8 +160,8 @@ links:
   link_text: Web site
   info_text: Info
 
-# for projects layout
-projects:
+# for classes layout
+classes:
   title: Classes
   button_name: Classes
   read_more_text: Read more
