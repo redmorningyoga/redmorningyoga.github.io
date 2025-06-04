@@ -1,7 +1,7 @@
 ---
-layout: classes
+layout: projects
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
-lng_pair: id_classes
+lng_pair: id_projects
 
 ##### Begin Insert of the _data/content/classes/en.yml content #####
 page_data:
