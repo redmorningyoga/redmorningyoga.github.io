@@ -1,9 +1,9 @@
 ---
-layout: projects
+layout: classes
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
-lng_pair: id_projects
+lng_pair: id_classes
 
-##### Begin Insert of the _data/content/projects/en.yml content #####
+##### Begin Insert of the _data/content/classes/en.yml content #####
 page_data:
   main:
     header: "Classes"
@@ -86,7 +86,7 @@ page_data:
 
 
 
-##### Finish Insert of the _data/content/projects/en.yml content #####
+##### Finish Insert of the _data/content/classes/en.yml content #####
 
 # publish date (used for seo)
 # if not specified, site.time will be used.
