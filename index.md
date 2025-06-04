@@ -1,6 +1,7 @@
 ---
 layout: home
-redirect_to: /projects/
+# this is to make classess as a default landing page
+# redirect_to: /projects/
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
 lng_pair: id_home
 
