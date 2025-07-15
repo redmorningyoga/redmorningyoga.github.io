@@ -81,7 +81,7 @@ page_data:
     - type: id_surry_hills
       project_name: "Yoga in the Park → Matcha with new Friend"
       project_excerpt: "no booking required"
-      img: ":surry_hills.jpg"
+      img: ":surry_hills.JPG"
       img_title: "img title1"
       date: "Mondays 9am, starting from 8th of September"
       post: |
