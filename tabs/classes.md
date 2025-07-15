@@ -79,7 +79,7 @@ page_data:
         Expect a gentle, beginner-friendly flow to help you build strength, reduce stress, and move mindfully.
 
     - type: id_church
-      project_name: "Yoga in the Park -> Matcha with new Friend"
+      project_name: "Yoga in the Park → Matcha with new Friend"
       project_excerpt: "no booking required"
       img: ":project1_thumb.png"
       img_title: "img title1"
