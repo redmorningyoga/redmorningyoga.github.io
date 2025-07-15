@@ -19,10 +19,14 @@ page_data:
       type: id_paddington_classes
       color: "#62b462"
       address: "EJ Ward Paddington Community Centre"
-    - title: "Moore Park"
-      type: id_moore_park_classes
+    - title: "Church"
+      type: id_church
       color: "#62b462"
-      address: "Bat and Ball Oval"
+      address: "Paddington Uniting Church"
+    #- title: "Moore Park"
+      #type: id_moore_park_classes
+      #color: "#62b462"
+      #address: "Bat and Ball Oval"
 
   list:
     - type: id_paddington_classes
@@ -84,7 +88,14 @@ page_data:
         
         🙏Donations appreciated. PayID: redmorningyoga@gmail.com
 
-
+    - type: id_church
+      project_name: "Yoga at the Church"
+      project_excerpt: "no booking required"
+      img: ":project1_thumb.png"
+      img_title: "img title1"
+      date: "Wednesdays 6pm, Saturdays 9am"
+      post: |
+        Classes
 
 ##### Finish Insert of the _data/content/classes/en.yml content #####
 
