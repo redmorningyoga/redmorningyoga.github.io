@@ -23,6 +23,10 @@ page_data:
       type: id_church
       color: "#62b462"
       address: "Paddington Uniting Church"
+    - title: "Surry Hills"
+      type: id_surry_hills
+      color: "#62b462"
+      address: "Eddie Ward Park"
     
   list:
     - type: id_paddington_classes
@@ -37,11 +41,11 @@ page_data:
         
         🧘‍♀️ Only 10 spots available – **please book [here](https://calendly.com/redmorningyoga/community-yoga-at-paddington-1).**
 
-        📍 **Location**: EJ Ward Paddington Community Centre
+        📍 **EJ Ward Paddington Community Centre**
         
-        🗓️ **When**: Every Monday and Friday from 8:30 am to 9:30 am
+        🗓️ Mondays and Fridays 8:30am
         
-        💸 Cost: $18 per class, bring your own mat or rent for $2 per class. **First class is free!**
+        💸 $18 per class, BYO mat or rent for $2. **First class is free!**
 
         🌿 What to expect:
         
@@ -66,9 +70,9 @@ page_data:
 
         🧘‍♀️ These classes are open to everyone, whether you're brand new or have been practicing for a while.
 
-        📍 **Location**: Paddington Uniting Church, 395 Oxford St
+        📍 **Paddington Uniting Church**, 395 Oxford St
 
-        🗓️ **When**: Wednesdays at 6:00 pm and Saturdays at 9:00 am
+        🗓️ Wednesdays 6:00 pm and Saturdays 9:00 am
 
         💸 $15 per class. Mats available but limited; bring your own if possible.
 
@@ -76,6 +80,26 @@ page_data:
 
         Expect a gentle, beginner-friendly flow to help you build strength, reduce stress, and move mindfully.
 
+    - type: id_church
+      project_name: "Yoga in the Park -> Matcha with new Friend"
+      project_excerpt: "no booking required"
+      img: ":project1_thumb.png"
+      img_title: "img title1"
+      date: "Mondays 9am, starting from 8th of September"
+      post: |
+        Start Your Monday with Movement, Sunlight & Real Connection. Balanced yoga class in the park, followed by coffee + chats right next door.
+        
+        📅 Starting from September 8, every **Monday 9:00AM**
+        
+        📍 **Eddie Ward Park**
+        
+        💸 $10 yoga class, BYO mat!
+        
+        🧘‍♀️ Gentle beginner-friendly yoga class to start your week right, build strength, reduce stress, and move mindfully
+        
+        ☕ Malika Bakehouse offers **10% off** the bill for yoga friends, just show your mat!
+
+        
 ##### Finish Insert of the _data/content/classes/en.yml content #####
 
 # publish date (used for seo)
