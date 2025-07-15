@@ -23,11 +23,7 @@ page_data:
       type: id_church
       color: "#62b462"
       address: "Paddington Uniting Church"
-    #- title: "Moore Park"
-      #type: id_moore_park_classes
-      #color: "#62b462"
-      #address: "Bat and Ball Oval"
-
+    
   list:
     - type: id_paddington_classes
       project_name: "Community Yoga in Paddington"
@@ -57,36 +53,7 @@ page_data:
 
         * Leave feeling calm, clear, and refreshed
 
-    - type: id_moore_park_classes
-      project_name: "Free Yoga in Sydney"
-      project_excerpt: "no booking required"
-      img: ":project2_thumb.png"
-      img_title: "img title3"
-      date: "Fridays 4:00-5:00 pm"
-      post: |
-        These classes are about sharing space, movement, and good energy with your body and pup!
-        
 
-        📍 **Location**: Bat and Ball Oval at Moore Park 
-        
-        🗓️ **When**: Every Friday from 4 pm to 5 pm
-        
-        💸 **Cost**: Free! Just bring a mat and a smile 
-
-        
-        🐾 What to expect:
-        
-        * A gentle, beginner-friendly yoga flow
-
-        * Calm, outdoor setting with dogs running around
-
-
-        Whether you're a seasoned yogi or just yoga-curious, this is a light-hearted, community-focused way to unwind with your dog and meet other locals who love         movement and furry companions. All dogs welcome — big, small, sleepy, or silly. 
-
-        *No dog? No problem!* You're absolutely welcome to join with or without a furry friend — it's all about connection and community.
-
-        
-        🙏Donations appreciated. PayID: redmorningyoga@gmail.com
 
     - type: id_church
       project_name: "Yoga at the Church"
