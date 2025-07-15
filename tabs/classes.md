@@ -32,7 +32,7 @@ page_data:
     - type: id_paddington_classes
       project_name: "Community Yoga in Paddington"
       project_excerpt: "read more for booking"
-      img: ":project1_thumb.png"
+      img: ":paddington.jpg"
       img_title: "img title1"
       date: "Mondays, Fridays 8:30-9:30 am"
       post: |
@@ -62,7 +62,7 @@ page_data:
     - type: id_church
       project_name: "Yoga at the Church"
       project_excerpt: "no booking required"
-      img: ":project1_thumb.png"
+      img: ":church.jfif"
       img_title: "img title1"
       date: "Wednesdays 6pm, Saturdays 9am"
       post: |
@@ -81,7 +81,7 @@ page_data:
     - type: id_surry_hills
       project_name: "Yoga in the Park → Matcha with new Friend"
       project_excerpt: "no booking required"
-      img: ":project1_thumb.png"
+      img: ":surry_hills.jpg"
       img_title: "img title1"
       date: "Mondays 9am, starting from 8th of September"
       post: |
