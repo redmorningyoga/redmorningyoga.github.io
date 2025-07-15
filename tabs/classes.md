@@ -62,7 +62,19 @@ page_data:
       img_title: "img title1"
       date: "Wednesdays 6pm, Saturdays 9am"
       post: |
-        Classes
+        Join me for balanced, all-levels yoga at Paddington Uniting Church — no need to book, just come along.
+
+        🧘‍♀️ These classes are open to everyone, whether you're brand new or have been practicing for a while.
+
+        📍 **Location**: Paddington Uniting Church, 395 Oxford St
+
+        🗓️ **When**: Wednesdays at 6:00 pm and Saturdays at 9:00 am
+
+        💸 $15 per class. Mats available but limited; bring your own if possible.
+
+        ✨ I’ll be subbing these classes from **July 19 to August 9**, and would love to see you there.
+
+        Expect a gentle, beginner-friendly flow to help you build strength, reduce stress, and move mindfully.
 
 ##### Finish Insert of the _data/content/classes/en.yml content #####
 
