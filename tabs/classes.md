@@ -68,8 +68,6 @@ page_data:
       post: |
         Join me for balanced, all-levels yoga at Paddington Uniting Church — no need to book, just come along.
 
-        🧘‍♀️ These classes are open to everyone, whether you're brand new or have been practicing for a while.
-
         📍 **Paddington Uniting Church**, 395 Oxford St
 
         🗓️ Wednesdays 6:00 pm and Saturdays 9:00 am
